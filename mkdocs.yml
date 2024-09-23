@@ -23,5 +23,7 @@ theme:
         name: Theme clair
       primary: teal
       accent: lime
+  extra_css:
+    - extra.css
     
     

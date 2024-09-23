@@ -23,7 +23,7 @@
 
 
 Commencez par télécharger le projet depuis le Git:
-http://extra.univ-littoral.fr/gitlab/capon.hugo/tresor-tropic.git
+<http://extra.univ-littoral.fr/gitlab/capon.hugo/tresor-tropic.git>
 
 
 Bibliothèques nécessaires:
