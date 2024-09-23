@@ -8,9 +8,6 @@ nav:
 
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
   palette:
     - scheme: default
       toggle:
