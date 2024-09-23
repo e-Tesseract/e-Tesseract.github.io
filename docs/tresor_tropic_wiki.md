@@ -2,25 +2,7 @@
 
 ## Table des matières
 
-0. [Guide d'Installation et Lancement Rapide](#guide-d'Installation-et-lancement-rapide)
-1.  [Introduction](#introduction)
-2.  [Objectif du Jeu](#objectif-du-jeu)
-3.  [Règles](#regles)
-    -   [Mouvement](#mouvement)
-    -   [Combat](#combat)
-4.  [Personnages](#personnages)
-    -   [Joueurs](#joueurs)
-    -   [Monstres](#monstres)
-5.  [Plateau de Jeu](#plateau-de-jeu)
-6.  [Événements](#evenements)
-7.  [Gagner et Perdre](#gagner-et-perdre)
-8.  [Personnalisation](#personnalisation)
-9.  [Développement et Réalisation](#developpement-et-realisation)
-10.  [Crédits](#credits)
-
-
 [TOC]
-
 
 ## 0. Guide d'Installation et Lancement Rapide
 

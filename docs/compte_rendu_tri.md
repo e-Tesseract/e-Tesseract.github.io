@@ -1,6 +1,6 @@
-[TOC]
-
 # Documentation de différentes méthodes de tri en python
+
+[TOC]
 
 ## Tri selection
 
