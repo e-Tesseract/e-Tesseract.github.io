@@ -3,6 +3,7 @@ repo_url: https://github.com/e-Tesseract/e-Tesseract.github.io.git
 
 nav:
   - Home: index.md
+  - Tresor Tropic: tresor_tropic_wiki.md
   - Comparaisons tris: compte_rendu_tri.md
   - Les champs de kebab en Asie: index2.md
 
