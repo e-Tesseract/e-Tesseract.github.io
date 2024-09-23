@@ -1,5 +1,7 @@
 # Documentation du Jeu “Tresor Tropic” réalisé par Hugo Capon
 
+![Tresor Tropic](./images/tresor_tropic.png)
+
 ## Table des matières
 
 [TOC]
