@@ -1,4 +1,4 @@
-# Wiki du Jeu “Tresor Tropic” réalisé par Hugo Capon
+# Documentation du Jeu “Tresor Tropic” réalisé par Hugo Capon
 
 ## Table des matières
 
@@ -36,7 +36,7 @@ Lancement Rapide:
 
 ## 1. Introduction
 
-Bienvenue dans le wiki du jeu “Tresor Tropic”.  
+Bienvenue dans la documentation du jeu “Tresor Tropic”.  
 Ce jeu vous plonge dans un univers d’aventure où des héros combattent des monstres redoutables pour atteindre le trésor. Préparez-vous à vous combattre les uns les autres, car un seul jeu peut arriver au trésor !
 
 ## 2. Objectif du Jeu
@@ -63,8 +63,9 @@ Les combats se produisent lorsqu’un joueur passe par une case monstre ou avanc
 Vous incarnez l’un des quatre courageux héros. Chaque joueur a un avatar unique pour le représenter sur le plateau:
 - Deux pirates,
 - Un perroquet,
-- Un aventurier.
-
+- Un aventurier,
+- Un crocodile,
+- Un pirate squelette.
 
 ### 4.2 Monstres
 
@@ -82,10 +83,10 @@ Les joueurs commencent case 1.
 
 Des cases spéciales sont présentes sur le plateau:
 
-1.  Cases Echelles
--- Vous feront soit avancer soit reculer
+1.  Cases Echelles: Vous feront soit avancer soit reculer
 3.  Cases Monstres
 4.  Cases Joueurs (si joueur présent)
+5.  Cases spéciales: Permettent de une carte spéciale parmi 3 cartes: Rejouer, Echanger de position avec un joueur, ou bien Faire reculer un joueur
 
 ## 7. Gagner et Perdre
 
@@ -104,7 +105,6 @@ Le jeu a été développé par Hugo Capon.
 1. Langage et librairies:
 	- Python
 	- Pygame
-	- random
 	- json
 	- subprocess
 
