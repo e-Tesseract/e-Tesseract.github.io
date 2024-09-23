@@ -3,11 +3,12 @@
 ## Tri selection
 
 Le *tri selection* marche de la manière suivante:
-1. On cherche le minimum de la liste
-2. On l'échange avec le premier élément
-3. On cherche le minimum de la liste restante
-4. On l'échange avec le deuxième élément
-5. Et ainsi de suite
+
+- On cherche le minimum de la liste
+- On l'échange avec le premier élément
+- On cherche le minimum de la liste restante
+- On l'échange avec le deuxième élément
+- Et ainsi de suite
 
 Exemple d'implémentation:
 
@@ -192,9 +193,10 @@ print(l)
 ## Tri rapide
 
 Le *tri rapide* fonctionne de la manière suivante:
-1. On choisit un élément de la liste
-2. On partitionne la liste en deux parties: les éléments plus petits que l'élément choisi, et les éléments plus grands
-3. On trie récursivement les deux parties
+
+- On choisit un élément de la liste
+- On partitionne la liste en deux parties: les éléments plus petits que l'élément choisi, et les éléments plus grands
+- On trie récursivement les deux parties
 
 
 ```python
@@ -275,9 +277,10 @@ print(l)
 ## Tri fusion
 
 Le *tri fusion* fonctionne de la manière suivante:
-1. On divise la liste en deux parties
-2. On trie récursivement les deux parties
-3. On fusionne les deux parties triées
+
+- On divise la liste en deux parties
+- On trie récursivement les deux parties
+- On fusionne les deux parties triées
 
 ```python
 def separer(l):
@@ -382,6 +385,7 @@ print(l2)
 ## Introduction
 
 Ce document donne une comparaison des tris suivants:
+
 - Tri **séléction**
 - Tri **insertion**
 - Tri **rapide**

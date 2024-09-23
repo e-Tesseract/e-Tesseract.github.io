@@ -27,10 +27,12 @@ Commencez par télécharger le projet depuis le Git:
 
 
 Bibliothèques nécessaires:
+
 - Python
 - Pygame
 
 Lancement Rapide:
+
 - Pour lancer le jeu graphique, allez dans le dossier "Jeu" et exécutez  "MenuGraphique.py"
 - Pour lancer le jeu en Terminal, allez dans le dossier "Jeu" et exécutez  "Main.py"
 
@@ -61,6 +63,7 @@ Les combats se produisent lorsqu’un joueur passe par une case monstre ou avanc
 ### 4.1 Joueurs
 
 Vous incarnez l’un des quatre courageux héros. Chaque joueur a un avatar unique pour le représenter sur le plateau:
+
 - Deux pirates,
 - Un perroquet,
 - Un aventurier,
@@ -69,7 +72,8 @@ Vous incarnez l’un des quatre courageux héros. Chaque joueur a un avatar uniq
 
 ### 4.2 Monstres
 
-Vous affronterez une variété de monstres: 
+Vous affronterez une variété de monstres:
+
 - Des créatures sauvages, 
 - Un monstre marin, 
 - Des pirates maudits.
