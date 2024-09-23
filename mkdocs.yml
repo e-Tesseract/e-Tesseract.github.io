@@ -15,12 +15,15 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Theme sombre
-      primary: teal
-      accent: purple
+      primary: deep-purple
+      accent: cyan
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Theme clair
-      primary: teal
-      accent: lime
+      primary: deep-purple
+      accent: cyan
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
     
