@@ -1,5 +1,7 @@
 # Documentation de différentes méthodes de tri en python
 
+## Table des matières
+
 [TOC]
 
 ## Tri selection
