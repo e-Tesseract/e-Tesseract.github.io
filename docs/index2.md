@@ -1,17 +1,3 @@
-<!-- # Friterie Molliens
-
-Devanture de la patate mollien:
-
-![friterie](./images/image1.jpg)
-
-## Menu
-
-- frites
-- frites
-- frites
-
-<br> -->
-
 # Les Champs de Kebab en Asie
 
 ## Introduction
