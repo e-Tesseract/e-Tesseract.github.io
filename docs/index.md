@@ -15,3 +15,8 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Documentation
+
+- [Analyse temporelle de méthodes de tri](compte_rendu_tri.md)
+- [Documentation sur le trésor tropic](tresor_tropic_doc.md)
