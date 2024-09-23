@@ -3,11 +3,11 @@
 ## Tri selection
 
 Le *tri selection* marche de la manière suivante:
- - On cherche le minimum de la liste
- - On l'échange avec le premier élément
- - On cherche le minimum de la liste restante
- - On l'échange avec le deuxième élément
- - Et ainsi de suite
+- On cherche le minimum de la liste
+- On l'échange avec le premier élément
+- On cherche le minimum de la liste restante
+- On l'échange avec le deuxième élément
+- Et ainsi de suite
 
 Exemple d'implémentation:
 
