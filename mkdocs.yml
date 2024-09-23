@@ -5,8 +5,6 @@ nav:
   - Home: index.md
   - Méthodes de tris: compte_rendu_tri.md
   - Tresor Tropic: tresor_tropic_doc.md
-  - Les champs de kebab en Asie: index2.md
-
 
 theme:
   name: material
