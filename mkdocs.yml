@@ -24,6 +24,19 @@ theme:
       primary: teal
       accent: lime
 
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+
+
 extra:
   social:
     - icon: fontawesome/brands/github-alt
