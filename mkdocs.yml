@@ -1,6 +1,10 @@
-site_name: My Site
+site_name: Site de Hugo
 repo_url: https://github.com/e-Tesseract/e-Tesseract.github.io.git
 
 nav:
   - Home: index.md
   - Kebab: test.md
+
+
+theme:
+  name: material
