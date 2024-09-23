@@ -23,4 +23,9 @@ theme:
         name: Theme clair
       primary: teal
       accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/e-Tesseract
     
