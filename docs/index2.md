@@ -11,7 +11,6 @@ Devanture de la patate mollien:
 - frites
 
 <br> -->
-# aaaaaaaaaaaaaaaaa
 
 # Les Champs de Kebab en Asie
 
